@@ -1,4 +1,4 @@
-# Hi there, I'm Octocat 👋
+# Hi there, I'm Bajrang 👋
 
 ## About Me
 I'm a passionate developer with a love for open-source projects.
