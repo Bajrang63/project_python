@@ -14,5 +14,7 @@ I'm a passionate developer with a love for open-source projects.
 !Octocat's GitHub stats
 
 ## Contact
-- email dahalebajrang46@gmail.com 
-- LinkedIn bajrang dahale
+- email : dahalebajrang46@gmail.com 
+- LinkedIn : www.linkedin.com/in/bajrang-dahale-080600255
+
+
